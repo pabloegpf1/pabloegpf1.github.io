@@ -378,8 +378,7 @@ footer {
 .vtimeline-point {
 	position: relative;
 	display: block;
-	vertical-align: top;
-	margin-bottom: 30px;
+ 	margin-bottom: 30px;
 }
 .vtimeline-icon {
 	position: relative;
@@ -493,6 +492,7 @@ footer {
 }
 #more-projects {
 	display: none;
+	padding: 0 15px 0 15px;
 }
 #skills {
 	padding: 50px 15px;
